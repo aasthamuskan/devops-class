@@ -1,0 +1,4 @@
+#this is for my devops class
+#include <bits/std.io>
+int a=2;
+int n=2;
